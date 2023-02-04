@@ -37,4 +37,6 @@ Stay up-to-date with our latest news and offerings.
 
 ## Watch Our Latest Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Microsoft 365 Video](https://sonitlo.com/img/video-thumbnail.png)](https://www.youtube.com/watch?v=tgbNymZ7vqY)
+
+Click the image to watch our latest video on Microsoft 365 solutions.
