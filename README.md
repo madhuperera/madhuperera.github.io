@@ -4,6 +4,8 @@
 
 Welcome to Sonitlo Demo Site, where we provide expert solutions for Microsoft 365. Whether you're looking to improve collaboration, streamline processes, or increase productivity, we have the tools and expertise to help you achieve your goals.
 
+![Microsoft 365 Logo](https://sonitlo.com/img/microsoft365.png)
+
 ## Our Services
 
 - Microsoft Teams Optimization
@@ -33,4 +35,6 @@ Stay up-to-date with our latest news and offerings.
 - [Twitter](https://twitter.com/sonitlo)
 - [LinkedIn](https://linkedin.com/company/sonitlo)
 
+## Watch Our Latest Video
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
