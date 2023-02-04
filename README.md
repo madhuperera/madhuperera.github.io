@@ -37,6 +37,7 @@ Stay up-to-date with our latest news and offerings.
 
 ## Watch Our Latest Video
 
-[![Microsoft 365 Video]([[https://sonitlo.com/img/video-thumbnail.png](https://sonitlo.files.wordpress.com/2018/10/sonitlo_verticalogo_transparentbg.png?w=96&h=96&crop=1)](https://yt3.ggpht.com/Qdy4BEAtGyq7naT45fvsx9zrNMeucJ3x40NLWHmNU2aXE_IoxPHrYmHh398Ck7Hi8Jy1iQVKIw=s48-c-k-c0x00ffffff-no-rj))](https://www.youtube.com/watch?v=tgbNymZ7vqY)
+[![Microsoft 365 Video](https://user-images.githubusercontent.com/37104267/216793301-576bbbd7-2704-47bd-81a0-a4a9d5f9bf55.jpg)](https://www.youtube.com/watch?v=tgbNymZ7vqY)
 
 Click the image to watch our latest video on Microsoft 365 solutions.
+
