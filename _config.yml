@@ -1,2 +1,4 @@
 title: ""
-[".well-known"]
+include:
+  - .well-known/security.txt
+
